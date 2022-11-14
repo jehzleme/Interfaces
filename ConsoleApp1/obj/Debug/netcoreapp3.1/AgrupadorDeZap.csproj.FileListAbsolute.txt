@@ -1,0 +1,14 @@
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.csproj.AssemblyReference.cache
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.AssemblyInfoInputs.cache
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.AssemblyInfo.cs
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.csproj.CoreCompileInputs.cache
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.exe
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.deps.json
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.runtimeconfig.json
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.runtimeconfig.dev.json
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.dll
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AgrupadorDeZap.pdb
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.dll
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.pdb
+C:\Users\jessica.ambrust\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AgrupadorDeZap.genruntimeconfig.cache

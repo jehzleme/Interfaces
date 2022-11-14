@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH8tEFbIIGFmUF8t/rJID/97BM6KLLf4abF983y75kmi3YGzOu7PaObLCPsoTNUMq3x84RIbZomSRAjCw8Bgag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.ambrust\\source\\repos\\ConsoleApp1\\ConsoleApp1\\AgrupadorDeZap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessica.ambrust\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
